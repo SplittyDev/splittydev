@@ -22,7 +22,7 @@ Primary interests include:
 ## Current GitHub Stats
 
 ![img1]
-![img2] ![img3]
+![img2]&nbsp;&nbsp;&nbsp;![img3]
 
 <!-- Links -->
 
