@@ -17,7 +17,7 @@ Primary interests include:
 - Compilers and Esolangs
 - Educational Malware
 - Home Automation
-- Blockhain
+- Blockchain
 
 ## Current GitHub Stats
 
