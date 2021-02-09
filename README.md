@@ -2,7 +2,7 @@
 I'm Marco, a Full-Stack Developer with many years of experience.
 
 Right now you can find me at [Quintschaf], writing iOS Apps.<br>
-You can also find me at [Proemion], where I'm doing Java stuff.
+You can also find me at [Compeon], where I'm doing full stack software engineering.
 
 ## Skills and Interests
 
@@ -27,7 +27,7 @@ Primary interests include:
 <!-- Links -->
 
 [Quintschaf]: https://github.com/Quintschaf
-[Proemion]: https://github.com/Proemion
+[Compeon]: https://github.com/compeon
 [img1]: https://raw.githubusercontent.com/SplittyDev/splittydev/master/profile-summary-card-output/default/0-profile-details.svg
 [img2]: https://raw.githubusercontent.com/SplittyDev/splittydev/master/profile-summary-card-output/vue/1-repos-per-language.svg
 [img3]: https://raw.githubusercontent.com/SplittyDev/splittydev/master/profile-summary-card-output/vue/2-most-commit-language.svg
