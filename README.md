@@ -2,7 +2,7 @@
 I'm Marco, a Full-Stack Developer with many years of experience.
 
 Right now you can find me at [Quintschaf], writing iOS Apps.<br>
-You can also find me at [Compeon], where I'm doing full stack software engineering.
+You can also find me at [Compeon], where I'm doing Full Stack Software Engineering.
 
 ## Skills and Interests
 
