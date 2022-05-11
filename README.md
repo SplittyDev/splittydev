@@ -6,14 +6,21 @@ You can also find me at [Compeon], where I'm doing Full Stack Software Engineeri
 
 ## Skills and Interests
 
-I'm working with many programming languages and frameworks, including:
+I've worked with many programming languages and frameworks, including:
 
 - Frontend: HTML, CSS, SASS/SCSS, React, Preact, PHP, JavaScript
 - Backend: C, C#, Rust, Swift, Crystal, Java, JavaScript, PHP, Python
 
+Today my focus is mostly on JavaScript and Rust.
+
 Primary interests include:
-- App Development in Swift and SwiftUI
-- Kernel Development in Rust
+- Web Development (JS / React)
+- App Development (Swift / SwiftUI)
+- Backend and APIs (JS / Rust)
+
+Secondary interests include:
+- Genetic Engineering (Rust)
+- Kernel Development (C / Rust)
 - Compilers and Esolangs
 - Educational Malware
 - Home Automation
