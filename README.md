@@ -1,36 +1,22 @@
-# Hey there!
-I'm Marco, a Full-Stack Developer with many years of experience.
+<p align="center">
+  <img src="https://img.shields.io/badge/Marco-ccc?style=for-the-badge&labelColor=ccc" />
+  <a href="https://quintschaf.com"><img src="https://img.shields.io/badge/Company-Quintschaf-12a18e?style=for-the-badge&logo=quintschaf&labelColor=12a18e" /></a>
+  <img src="https://img.shields.io/badge/Quinten-ccc?style=for-the-badge&labelColor=ccc" />
+</p>
 
-Right now you can find me at [Quintschaf], writing iOS Apps.<br>
-I'm also working for an ✨ undisclosed company ✨, where I'm writing code in Rust 🦀.
+## A 📸 of my 🧠 right now
 
-## Skills and Interests
+|    |    |
+| -- | -- |
+| Languages | <img src="https://img.shields.io/badge/Native-German-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Native-English-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Learning-Korean-333?style=for-the-badge" /> |
+| Programming | <img src="https://img.shields.io/badge/Rust-222?style=for-the-badge&logo=rust&labelColor=222" /> <img src="https://img.shields.io/badge/Swift-e94e35?style=for-the-badge&logo=swift&labelColor=e94e35&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript-c5ae16?style=for-the-badge&logo=javascript&labelColor=c5ae16&logoColor=white" /> <img src="https://img.shields.io/badge/Typescript-166bc5?style=for-the-badge&logo=typescript&labelColor=166bc5&logoColor=white" /> |
+| Tech | <img src="https://img.shields.io/badge/Unity-222?style=for-the-badge&logo=unity&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/React-555?style=for-the-badge&logo=react&labelColor=555&logoColor=61dafb" /> <img src="https://img.shields.io/badge/SwiftUI-ddd?style=for-the-badge&logo=swift&labelColor=ddd&logoColor=e94e35" /> <img src="https://img.shields.io/badge/Tauri-fdc131?style=for-the-badge&logo=tauri&labelColor=25c8db&logoColor=white" /> |
+| Interests | <img src="https://img.shields.io/badge/Blockchain-222?style=for-the-badge&logo=bitcoin&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/🧬-Genetic%20Engineering-222?style=for-the-badge&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/Anteaters-222?style=for-the-badge&labelColor=222&logoColor=white" /> |
+|    |    |
 
-I've worked with many programming languages and frameworks, including:
+## Contribution Graph
 
-- Frontend: HTML, CSS, SASS/SCSS, React, Preact, PHP, JavaScript
-- Backend: C, C#, Rust, Swift, Crystal, Java, JavaScript, PHP, Python
-
-Today my focus is mostly on JavaScript and Rust.
-
-Primary interests include:
-- Web Development (JS / React)
-- App Development (Swift / SwiftUI)
-- Backend and APIs (JS / Rust)
-
-Secondary interests include:
-- Genetic Engineering (Rust)
-- Kernel Development (C / Rust)
-- Compilers and Esolangs
-- Educational Malware
-- Home Automation
-- Blockchain
-
-## Current GitHub Stats
-![stats2]
-
-<!-- ![img1] -->
-![img2]&nbsp;&nbsp;&nbsp;![img3]
+![SplittyDev](https://splitty-github-activity-graph.herokuapp.com/graph?username=SplittyDev&theme=nord&radius=5&hide_border=true&hide_title=true)
 
 <!-- Links -->
 
