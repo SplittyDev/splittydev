@@ -14,9 +14,11 @@
 | Interests | <img src="https://img.shields.io/badge/Blockchain-222?style=for-the-badge&logo=bitcoin&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/🧬-Genetic%20Engineering-222?style=for-the-badge&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/Anteaters-222?style=for-the-badge&labelColor=222&logoColor=white" /> |
 |    |    |
 
+<!-- 
 ## Contribution Graph
 
 ![SplittyDev](https://splitty-github-activity-graph.herokuapp.com/graph?username=SplittyDev&theme=nord&radius=5&hide_border=true&hide_title=true)
+-->
 
 <!-- Links -->
 
