@@ -12,10 +12,9 @@
 ## A 📸 of my 🧠 right now
 |    |    |
 | -- | -- |
-| Languages | <img src="https://img.shields.io/badge/Native-German-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Native-English-333?style=for-the-badge" /> |
-| Programming | <img src="https://img.shields.io/badge/Rust-222?style=for-the-badge&logo=rust&labelColor=222" /> <img src="https://img.shields.io/badge/Swift-e94e35?style=for-the-badge&logo=swift&labelColor=e94e35&logoColor=white" /> <img src="https://img.shields.io/badge/Javascript-c5ae16?style=for-the-badge&logo=javascript&labelColor=c5ae16&logoColor=white" /> <img src="https://img.shields.io/badge/Typescript-166bc5?style=for-the-badge&logo=typescript&labelColor=166bc5&logoColor=white" /> |
-| Tech | <img src="https://img.shields.io/badge/Unity-222?style=for-the-badge&logo=unity&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/NextJS-555?style=for-the-badge&logo=vercel&labelColor=555&logoColor=61dafb" /> <img src="https://img.shields.io/badge/SwiftUI-ddd?style=for-the-badge&logo=swift&labelColor=ddd&logoColor=e94e35" /> <img src="https://img.shields.io/badge/Tauri-fdc131?style=for-the-badge&logo=tauri&labelColor=25c8db&logoColor=white" /> |
-| Interests | <img src="https://img.shields.io/badge/Blockchain-222?style=for-the-badge&logo=bitcoin&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/💸-Financial%20Technology-222?style=for-the-badge&labelColor=222&logoColor=white" /> <img src="https://img.shields.io/badge/Anteaters-222?style=for-the-badge&labelColor=222&logoColor=white" /> |
+| Languages | <img src="https://img.shields.io/badge/Native-German-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Bilingual-English-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Learning-Thai-333?style=for-the-badge" /> |
+| Programming | ![My Skills](https://skillicons.dev/icons?i=rust,swift,html,css,typescript,javascript) |
+| Tech | ![My Skills](https://skillicons.dev/icons?i=tailwind,cloudflare,vercel,next,tauri,unity,godot) |
 |    |    |
 
 <!-- 
