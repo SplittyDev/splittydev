@@ -12,7 +12,8 @@
 ## A 📸 of my 🧠 right now
 |    |    |
 | -- | -- |
-| Languages | <img src="https://img.shields.io/badge/Native-German-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Bilingual-English-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Learning-Thai-333?style=for-the-badge" /> |
+| Languages | <img src="https://img.shields.io/badge/Native-German-333?style=for-the-badge" /> <img src="https://img.shields.io/badge/Bilingual-English-333?style=for-the-badge" /> |
+| Language Learning | <img src="https://img.shields.io/badge/Learning-Thai-8c3ab4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Learning-Chinese-c52943?style=for-the-badge" /> |
 | Programming | ![My Skills](https://skillicons.dev/icons?i=rust,swift,html,css,typescript,javascript) |
 | Tech | ![My Skills](https://skillicons.dev/icons?i=tailwind,cloudflare,vercel,next,tauri,unity,godot) |
 |    |    |
