@@ -18,6 +18,11 @@
 | Tech | ![My Skills](https://skillicons.dev/icons?i=tailwind,cloudflare,vercel,next,tauri,unity,godot) |
 |    |    |
 
+## AI Stuff
+
+- [Find my LoRAs on civitAI](https://civitai.com/user/splittydev)
+- [Run FLUX.1 locally on macOS for free](https://github.com/SplittyDev/flux1-cli)
+
 <!-- 
 ## Contribution Graph
 
